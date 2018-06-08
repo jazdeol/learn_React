@@ -1,0 +1,10 @@
+.Output{
+    width: 300px;
+    height: auto;
+    text-align: center;
+    border: '3px solid blue';
+    padding: '3px';
+    box-shadow: 0 2px 3px #ccc;
+    margin-left: auto;
+    margin-right: auto;
+}
